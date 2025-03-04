@@ -1,6 +1,6 @@
 ![Sebylizz' GitHub stats](https://github-readme-stats-lyart-kappa-44.vercel.app/api?username=sebylizz&theme=cobalt)
 
-![Top Langs](https://github-readme-stats-lyart-kappa-44.vercel.app/api/top-langs/?username=sebylizz&size_weight=0.5&count_weight=0.5&theme=cobalt&exclude_repo=github-readme-stats)
+![Top Langs](https://github-readme-stats-lyart-kappa-44.vercel.app/api/top-langs/?username=sebylizz&langs_count=7&size_weight=0.5&count_weight=0.5&theme=cobalt&exclude_repo=github-readme-stats)
 <!--
 **sebylizz/sebylizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
